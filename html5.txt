@@ -1,0 +1,12 @@
+Html
+
+ html5 bir- birine bagli senedleri tesvir etmek ucun genislendirilen
+ HyperText Markup Language en yaxsi versiyasidir.
+ html ozluyunde bir proqlama dili deyildir ve tek basina bir mena ifade etmir.
+Bu dili basa dusen proqlamlar ve komekci diller sayesinde bir netice elde etmek olmur.
+html5 getirdiyi yenilikler:
+canvas - 2D VE 3D sekilleri duzeltmek olur.
+video-audio- ses ve video oynatmag ucun destek.
+local stroge- internet evezine komputerin yaddasina  depolamag ucun yararlidir.
+html5 vasitesile eyni sayta tel,tabletden,pcden browserin komeyile gire bilerik.
+Hemde her biri ucun ayri-ayri kod yazmag lazim deyil.
